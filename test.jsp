@@ -1,3 +1,3 @@
 <test>
-Nothing.
+testing in BugFixing branch
 </test>
